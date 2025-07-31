@@ -5,4 +5,6 @@
 通过网盘分享的文件：XCube-3DPrinting-Slicer-1.3.zip
 链接: https://pan.baidu.com/s/1zZjZ8UI1ghYeuLp8bs5kSw?pwd=cdsw 提取码: cdsw 
 
-代码原文件（46GB）可见下方链接
+代码原文件（48GB）可见下方链接
+
+成果展示：
