@@ -26,5 +26,6 @@
 链接: https://pan.baidu.com/s/1zZjZ8UI1ghYeuLp8bs5kSw?pwd=cdsw 提取码: cdsw 
 
 代码原文件（48GB）可见下方链接
+通过网盘分享的文件：bambuStudio
+链接: https://pan.baidu.com/s/17axuNQwvziqnXnli317ihw?pwd=e4md 提取码: e4md 
 
-成果展示：
